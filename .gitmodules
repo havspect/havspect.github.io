@@ -1,4 +1,1 @@
 
-[submodule "my-first-page/themes/terminal"]
-	path = my-first-page/themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
